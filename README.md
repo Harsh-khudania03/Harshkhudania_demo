@@ -1,2 +1,3 @@
 # Harshkhudania_demo
-This is my git repository
+This is my first Git Repository.
+Author-Harsh Khudania
